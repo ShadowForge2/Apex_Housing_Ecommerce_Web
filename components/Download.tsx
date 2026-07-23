@@ -16,7 +16,7 @@ export default function Download() {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-10">
               <a
-                href="/api/download-apk"
+                href="/apex-housing.apk"
                 className="inline-flex items-center justify-center gap-3 px-8 py-4 bg-gradient-to-r from-primary-500 to-primary-600 hover:from-primary-400 hover:to-primary-500 text-white font-normal tracking-wide rounded-2xl transition-all duration-200 shadow-xl shadow-primary-500/25 hover:shadow-primary-500/40 hover:-translate-y-0.5"
               >
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
